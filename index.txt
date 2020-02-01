@@ -2,6 +2,6 @@
 <html>
 <body>
 <h1>Testing</h1>
-<p>Testseite für die Überprüfung diverser Funktionen</p>
+<p>Testseite für die Überprüfung diverser Funktionen.</p>
 </body>
 </html>
